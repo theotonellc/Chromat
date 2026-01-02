@@ -1,0 +1,30 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+
+# Editor / IDE configs
+.vscode/
+.idea/
+
+# Mac / Windows files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# MIDI/audio outputs (optional, if you don't want large files in Git)
+*.mid
+*.midi
+*.wav
+*.mp3
+*.ogg
+
+# Pygame / project caches
+.cache/
